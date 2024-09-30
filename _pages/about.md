@@ -10,11 +10,14 @@ Thank you for visiting! I am a Graduate Researcher at the Convergent Technologie
 
   My research focuses on the intersection of behavioral science and management, with an emphasis on reward systems, neurodiversity, and executive functions. I have led projects developing cognitive assessment tools for HR performance appraisals and have supervised several research initiatives, utilizing tools like R, Python, and SmartPLS. My work aims to bridge academic theory with practical applications to enhance organizational outcomes.
 
-## Research Interests
+# Research Interests
 - Creativity and Innovation
-- Reward and Punishment
-- Neuro-diversity
+- Motivation
 - Executive Functions
-- Emotion and Cognition
-- Decision-Making
+- Cognitive Biases
+- Personality Dynamics
+- Behavioral Decision-Making
+- Emotion
+- Well-Being
+- AI in Performance Appraisal
 - Experimental Research and Task Design
