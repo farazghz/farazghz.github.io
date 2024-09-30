@@ -5,8 +5,8 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-### [Download Full CV (PDF)](https://github.com/yourusername/yourrepository/raw/main/your-cv.pdf)
 ---
+# [Download Full CV (PDF)](https://github.com/yourusername/yourrepository/raw/main/your-cv.pdf)
 
 # Education
 
