@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-## [Download Full CV (PDF)](https://github.com/yourusername/yourrepository/raw/main/your-cv.pdf)
+## [Download Full CV (PDF)](https://github.com/farazghz/farazghz.github.io/master/files/Faraz_Ghodratizadeh_CV_October_2024.pdf)
 
 # Education
 
