@@ -5,10 +5,8 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
 ### [Download Full CV (PDF)](https://github.com/yourusername/yourrepository/raw/main/your-cv.pdf)
-
-
+---
 
 # Education
 
@@ -63,7 +61,7 @@ redirect_from:
 - Critical Thinking, Creative Problem-Solving, Innovative Thinking
 - Project Planning and Management, Lab Management, Teamwork and Leadership
 - Persuasive Communication and Negotiation, Interpersonal Management, Rapid Learning and Adaptation
-- - Time and Deadline Management, Problem Identification and Resolution, Curious and Inquisitive Mindset
+- Time and Deadline Management, Problem Identification and Resolution, Curious and Inquisitive Mindset
 - Grant Proposal Writing, Research Translation to Practical Applications, Interdisciplinary Collaboration
 
 # Publications
