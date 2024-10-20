@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/004fc4e5-4cd6-4563-a9ba-8c603a581a87)---
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
@@ -21,8 +21,8 @@ redirect_from:
 
 # Academic Experience
 ### Graduate Researcher | 2020 - Present  
-**Lab for Applications of AI in Business Studies, University of Tehran**  
-*Supervisors: Dr. Reza Rostami, Dr. Ehsan Chitsaz, Dr. Abdol-Hossein Vahabie, Dr. Mohammadreza A. Dehaqani*
+**Cogno-HR Research Team, Dr. Chitsaz’s Behavioral Research Lab**  
+*Supervisors: Dr. Reza Rostami, Dr. Ehsan Chitsaz, Dr. Abdol-Hossein Vahabie*
 - Conducted systematic reviews on cognitive neuroscience and HRM, focusing on manager-level cognitive biases in decision-making.
 - Designed randomized controlled trials (RCTs) integrating brain-based strategies for talent acquisition and performance management.
 - Supervised lab experiments using PsychoPy and R, providing guidance on experimental methodology.
@@ -65,13 +65,18 @@ redirect_from:
 # Publications
 
 ### Journal Papers
-- Ghodratizadeh, F., Chitsaz, E., and Rostami, R. (2022). Investigating the Effects of Continuous Financial Rewards on the Performance of Employees’ Idea Generation. *Organizational Resources Management Researches*, 12(3), 153-190. (Published, in Persian)
-- Shiralian, S., Ghodratizadeh, F., Talebi, K., and Chitsaz, E. (2023). The Innovation Equation: Understanding the Connection between Team Cohesion, Motivation, and Design Thinking Mindset in Boosting Employee’s Innovative Performance. *Journal of Entrepreneurship Development.* (Published, in Persian)
-- Etemadi, M., Chitsaz, E., Dehaqani, M. A., and Ghodratizadeh, F. (2023). Interplay of Monetary Rewards, Expectations, and Ideation Quality: An Empirical Analysis. *Journal of Entrepreneurship Development.* (Published, in Persian)
-- Etemadi, M., Chitsaz, E., and Ghodratizadeh, F. (2024). The Paradox of Rewards: Reconsidering Employee Satisfaction and Ideation Performance. *Journal of Sustainable Human Resource Management*, 6(10), 87-71. (Published, in Persian)
-- Ghodratizadeh, F., Chitsaz, E., Rostami, R., and Vahabi, A. (2024). An Experimental Inquiry into the Effects of Monetary Rewards on the Quality-Quantity Dynamics of Employee’s New Venture Ideas. *Journal of Thinking Skills and Creativity.* (Under review, in English)
-- Shiralian, S., Talebi, K., Ghodratizadeh, F., and Chitsaz, E. (2024). The Role of Design Thinking in Promoting Innovative Behavior: An Exploration of Team Cohesion and Motivation. *Journal of General Management.* (Under review, in English)
-- Ghodratizadeh, F., Chitsaz, E., Rostami, R., and Vahabi, A. (2025). Untangling Expectations: Cognitive Flexibility’s Moderating Role on the Anticipated Monetary Rewards Value for Intrapreneurs in Creating New Venture Ideas. (In progress, in English)
+#### Published
+- Saghezchi, A., Ghassemzadeh Kashani, V., Ghodratizadeh, F., Chitsaz, E. (2024). A Comprehensive Optimization Approach on Financial Resource Allocation in Scale-Ups. Journal of Business and Management Studies.(Accepted, In English)
+- Etemadi, M., Chitsaz, E., and Ghodratizadeh, F. (2024). The Paradox of Rewards: Reconsidering Employee Satisfaction and Ideation Performance. Journal of Sustainable Human Resource Management, 6(10), 87-71. (Published, in Persian)
+- Etemadi, M., Chitsaz, E., A.Dehaqani, M. and Ghodratizadeh, F. (2023). Interplay of Monetary Rewards, Expectations, and Ideation Quality: An Empirical Analysis. Journal of Entrepreneurship Development.. (Published, in Persian)
+- Shiralian S., Ghodratizadeh, F., Talebi, K., Chitsaz, E. (2023). The Innovation Equation: Understanding the Connection between Team Cohesion, Motivation, and Design Thinking Mindset in Boosting Employee’s Innovative Performance. Journal of Entrepreneurship Development. (Published, in Persian)
+- Ghodratizadeh, F., Chitsaz, E. and Rostami, R. (2022). Investigating on The Effects of Continuous Financial Rewards on The Performance of Employees’ Idea Generation. Organizational Resources Management Researches, 12 (3), :153-190. (Published, in
+Persian)
+#### Working Papers
+- Ghodratizadeh, F., Chitsaz, E., Rostami, R. and Vahabie, A. (2025). Untangling Expectations: Cognitive Flexibility’s Moderating Role on The Anticipated Monetary Rewards Value for Intrapreneurs in Creating New Venture Ideas, (In Progress, in English)
+- Shiralian, S., Talebi, K., Ghodratizadeh, F., Chitsaz, E. (2025). The Role of Design Thinking in Promoting Innovative Behavior: An Exploration of Team Cohesion and Motivation, Journal of General Management (Under-Review, in English)
+- Ghodratizadeh, F., Chitsaz, E., Rostami, R. and Vahabie, A. (2025). An Experimental Inquiry into The Effects of Monetary Rewards on The Quality-Quantity Dynamics of Employee’s New Venture Ideas, Aimed for International Journal of Innovation
+Science.(Ready for Submission, in English)
 
 ### Conference Papers
 - Ghodratizadeh, F., and Chitsaz, E. (2020). An Introduction to Neuroscience Concepts in the Organization and the Future Ahead in Entrepreneurship Research. (Published, in Persian)
@@ -110,8 +115,8 @@ redirect_from:
 
 # Achievements
 
-- **Undergraduate Full Scholarship** (2013)  
-  Awarded by the National Organization for Educational Testing (NOET) to enter Shahid Beheshti University, Tehran, Iran.
+- **The Iranian University Entrance Exam - Undergraduate Studies** (2013)  
+ Ranked in the top one percent among approximately 600,000 participants in Iran’s national university entrance exam., Tehran, Iran.
 
 - **First Place Graduate Student in Entrepreneurship** (2022)  
   Ranked first among ten corporate entrepreneurship graduate students at the University of Tehran.
