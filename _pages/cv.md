@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/004fc4e5-4cd6-4563-a9ba-8c603a581a87)---
+---
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
