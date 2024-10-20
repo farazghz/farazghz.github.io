@@ -19,7 +19,7 @@ Thank you for visiting, and I look forward to connecting with you!
 - Cognitive Biases
 - Personality Dynamics
 - Team & Group Dynamics
-- Behavioral Decision-Making
+- Judgement and Decision-Making
 - Emotion
 - Well-Being
 - Neurodiversity
