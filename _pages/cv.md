@@ -67,14 +67,18 @@ redirect_from:
 # Publications
 
 ### Journal Papers
+
 #### Published
+
 - Saghezchi, A., Ghassemzadeh Kashani, V., Ghodratizadeh, F., Chitsaz, E. (2024). A Comprehensive Optimization Approach on Financial Resource Allocation in Scale-Ups. Journal of Business and Management Studies.(Accepted, In English)
 - Etemadi, M., Chitsaz, E., and Ghodratizadeh, F. (2024). The Paradox of Rewards: Reconsidering Employee Satisfaction and Ideation Performance. Journal of Sustainable Human Resource Management, 6(10), 87-71. (Published, in Persian)
 - Etemadi, M., Chitsaz, E., A.Dehaqani, M. and Ghodratizadeh, F. (2023). Interplay of Monetary Rewards, Expectations, and Ideation Quality: An Empirical Analysis. Journal of Entrepreneurship Development.. (Published, in Persian)
 - Shiralian S., Ghodratizadeh, F., Talebi, K., Chitsaz, E. (2023). The Innovation Equation: Understanding the Connection between Team Cohesion, Motivation, and Design Thinking Mindset in Boosting Employee’s Innovative Performance. Journal of Entrepreneurship Development. (Published, in Persian)
 - Ghodratizadeh, F., Chitsaz, E. and Rostami, R. (2022). Investigating on The Effects of Continuous Financial Rewards on The Performance of Employees’ Idea Generation. Organizational Resources Management Researches, 12 (3), :153-190. (Published, in
 Persian)
+
 #### Working Papers
+
 - Ghodratizadeh, F., Chitsaz, E., Rostami, R. and Vahabie, A. (2025). Untangling Expectations: Cognitive Flexibility’s Moderating Role on The Anticipated Monetary Rewards Value for Intrapreneurs in Creating New Venture Ideas, (In Progress, in English)
 - Shiralian, S., Talebi, K., Ghodratizadeh, F., Chitsaz, E. (2025). The Role of Design Thinking in Promoting Innovative Behavior: An Exploration of Team Cohesion and Motivation, Journal of General Management (Under-Review, in English)
 - Ghodratizadeh, F., Chitsaz, E., Rostami, R. and Vahabie, A. (2025). An Experimental Inquiry into The Effects of Monetary Rewards on The Quality-Quantity Dynamics of Employee’s New Venture Ideas, Aimed for International Journal of Innovation
